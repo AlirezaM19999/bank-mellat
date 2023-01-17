@@ -1,7 +1,7 @@
 /* Content */
 
 .content-wrap {
-    position: relative
+    position: none;
 }
 .content-wrap section {
     display: none;
